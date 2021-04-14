@@ -1,7 +1,6 @@
-let animal = "";
+let animal = "dog";
 
 function myAnimal() {
-  animal="dog"
   return animal
 }
 
